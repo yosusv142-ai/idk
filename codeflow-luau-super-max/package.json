@@ -1,0 +1,16 @@
+{
+  "name": "codeflow-luau-super-max",
+  "version": "1.0.0",
+  "description": "CodeFlow Luau Absolute Master — OpenRouter-powered Roblox Luau AI with Arabic RTL chat",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js"
+  },
+  "keywords": ["roblox", "luau", "openrouter", "arabic", "chatbot"],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
